@@ -1,0 +1,16 @@
+E:\KODLAR\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.csproj.AssemblyReference.cache
+E:\KODLAR\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.Form1.resources
+E:\KODLAR\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.csproj.GenerateResource.cache
+E:\KODLAR\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.GeneratedMSBuildEditorConfig.editorconfig
+E:\KODLAR\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.AssemblyInfoInputs.cache
+E:\KODLAR\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.AssemblyInfo.cs
+E:\KODLAR\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.csproj.CoreCompileInputs.cache
+E:\KODLAR\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.exe
+E:\KODLAR\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.deps.json
+E:\KODLAR\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.runtimeconfig.json
+E:\KODLAR\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.runtimeconfig.dev.json
+E:\KODLAR\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.dll
+E:\KODLAR\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.pdb
+E:\KODLAR\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.dll
+E:\KODLAR\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.pdb
+E:\KODLAR\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.genruntimeconfig.cache
